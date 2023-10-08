@@ -1,6 +1,7 @@
 # Apple-Carbon-Neutrality
 The project conducts an in-depth review of Apple Inc.'s progress toward achieving carbon neutrality by the year 2030. 
 This project focuses on using data provided by Apple in their Environmental Progress Reports from 2015-2022.
+
 Tools used: Excel, Power Bi, Canva for presetation
 
 Project Overview:
