@@ -19,11 +19,15 @@ Data-driven insights derived from the visualizations and projections for 2030 ca
 
 Key Insights:
 
-Apples' Product Life Cycle gross emissions is whopping 98.53%, wherein major contributors are Manufacturing (purchased goods and services), Product use (use of sold products), and Product transportation (upstream and downstream). However, Apple has reduced Manufacturing and Product use (use of sold products) by 54.7% and 25.8% respectively since 2015, and has seen increase in Product transportation by 46.2% since 2015.
-Apple has achieved staggering market cap of $2.49 trillion in year 2022, with showing revenue growth of 68.7% since 2015 generating $394.33 billion in year 2022. At the same time, it managed to achieve 47% of its carbon neutral target.
-Starting in 2021, the company has transitioned to a baseline storage of 128 while simultaneously reducing its carbon footprint. In reference to its latest phone release, Apple stated a carbon footprint of 56 kg CO2e.
-Apple initiated carbon offset efforts in 2020 and managed to achieve Product carbon offsets of -500000 only in 2021.
-Corporate emissions' Scope 3 includes employee commutes and business travels. Although these decreased in 2021 due to Covid, it's essential to keep monitoring these emissions.
+- Apples' Product Life Cycle gross emissions is whopping 98.53%, wherein major contributors are Manufacturing (purchased goods and services), Product use (use of sold products), and Product transportation 
+  (upstream and downstream). However, Apple has reduced Manufacturing and Product use (use of sold products) by 54.7% and 25.8% respectively since 2015, and has seen increase in Product transportation by 46.2% 
+  since 2015.
+- Apple has achieved staggering market cap of $2.49 trillion in year 2022, with showing revenue growth of 68.7% since 2015 generating $394.33 billion in year 2022. At the same time, it managed to achieve 47% of 
+  its carbon neutral target.
+- Starting in 2021, the company has transitioned to a baseline storage of 128 while simultaneously reducing its carbon footprint. In reference to its latest phone release, Apple stated a carbon footprint of 56 
+  kg CO2e.
+- Apple initiated carbon offset efforts in 2020 and managed to achieve Product carbon offsets of -500000 only in 2021.
+- Corporate emissions' Scope 3 includes employee commutes and business travels. Although these decreased in 2021 due to Covid, it's essential to keep monitoring these emissions.
 
 Conclusion:
 
