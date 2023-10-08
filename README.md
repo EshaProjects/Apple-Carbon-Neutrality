@@ -4,6 +4,7 @@ This project focuses on using data provided by Apple in their Environmental Prog
 
 Tools used: Excel, Power Bi, Canva for presetation
 
+View the analysis here: https://apple-carbon-neutrality.my.canva.site/apple-carbon-neutrality-analysis
 Project Overview:
 
 The project conducts an in-depth review of Apple Inc.'s progress toward achieving carbon neutrality by the year 2030.
